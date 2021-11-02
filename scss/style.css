@@ -18,7 +18,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: url("images/bg-desktop.png");
+  background: url("https://imgur.com/5Eb4X33");
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
@@ -221,7 +221,7 @@ body {
     background-color: #0c122c;
   }
   body {
-    background: url("images/bg-desktop.png");
+    background: url("https://imgur.com/SolJj7y");
     background-repeat: no-repeat;
   background-position: bottom;
     background-size: contain;
