@@ -3,6 +3,9 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
+ html {
+    background-color: #0c122c;
+  }
 
 body {
   min-width: 375px;
